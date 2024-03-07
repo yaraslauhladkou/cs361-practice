@@ -1,4 +1,4 @@
-echo "starting yor git script..."
+echo "starting git script..."
 
 git pull origin main
 git status
